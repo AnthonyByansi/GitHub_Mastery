@@ -9,7 +9,7 @@ Welcome to the first part of your Git and GitHub learning journey. In this secti
 3. [Configuration](#configuration)
 4. [Creating Your First Repository](#creating-your-first-repository)
 5. [Basic Git Commands](#basic-git-commands)
-6. [Working with Git](#working-with-git)
+6. [Working with Git](#working-with-git-section).
 
 ## Introduction to Git
 
