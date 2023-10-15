@@ -5,39 +5,36 @@ This repository is designed to help individuals of all skill levels master the c
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Documentation](#documentation)
-- [Code Examples](#code-examples)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+| No. | Section                                  |
+|---- |-----------------------------------------|
+| 1.  | [Introduction](#introduction)           |
+| 2.  | [Getting Started](#getting-started)     |
+| 3.  | [Repository Structure](#repository-structure) |
+| 4.  | [Contributing](#contributing)           |
+| 5.  | [License](#license)                     |
+
+## Introduction
+
+Git and GitHub are essential tools for modern software development. This repository is your one-stop destination for learning and mastering these tools. We've organized the content into three levels: Beginner, Intermediate, and Advanced, to accommodate users of all skill levels.
 
 ## Getting Started
 
-If you're new to Git and GitHub, begin your journey with our beginner-level documentation:
+### Prerequisites
 
-- [Beginner's Guide](Documentation/beginner.md)
+To get the most out of this repository, you should have the following tools installed on your system:
 
-As you progress and become more comfortable with Git and GitHub, explore the intermediate and advanced sections:
+| Tool        | Installation Link                   |
+|------------ |-------------------------------------|
+| Git         | [Install Git](https://git-scm.com/) |
+| GitHub Account | [Create GitHub Account](https://github.com/) |
 
-- [Intermediate Concepts](Documentation/intermediate.md)
-- [Advanced Topics](Documentation/advanced.md)
+### Installation
 
-## Documentation
+1. Clone this repository to your local machine:
 
-In the `Documentation` folder, you'll find comprehensive guides and explanations for all skill levels. The documentation covers topics such as:
-
-- Git basics
-- GitHub collaboration
-- Branching and merging
-- Git workflows
-- Git internals
-- GitHub Actions and automation
-
-## Code Examples
-
-Explore practical code examples in the `CodeExamples` directory to reinforce your learning. These examples are designed to accompany our documentation and provide hands-on experience.
-
+   ```sh
+   git clone https://github.com/AnthonyByansi/GitHub-Mastery.git
+  
 ## Resources
 
 - [Cheat Sheets](Resources/CheatSheets.md) - Quick reference guides for common Git and GitHub operations.
