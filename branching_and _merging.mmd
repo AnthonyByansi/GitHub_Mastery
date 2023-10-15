@@ -1,0 +1,27 @@
+graph TD
+  subgraph Local Repository
+    A[Working Directory] -->|1. Modify Files| B[Staging Area]
+    B -->|2. Stage Changes| C[Local Repository]
+  end
+  subgraph Remote Repository
+    D[Remote Repository] -->|3. Push Changes| C
+    D -->|4. Fetch Changes| E[Remote Tracking Branch]
+  end
+  C -->|5. Commit Changes| F[Local Branch]
+  E -->|6. Merge or Rebase| F
+  F -->|7. Push Branch| D
+  F -->|8. Pull Request| D
+  
+  class A green
+  class B yellow
+  class C blue
+  class D gray
+  class E gray
+  class F green
+  %% Styling
+  classDef commitNode fill:#f2f2f2, stroke:#9e9e9e
+  classDef labelNode fill:#f2f2f2, stroke:#9e9e9e
+  %% Nodes
+  G[Commit] -->|9. View Commit| H[Diff Changes]
+  style G commitNode
+  style H labelNode
