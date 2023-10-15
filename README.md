@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # GitHub-Mastery
 ![GitHub Desktop Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
@@ -9,7 +11,7 @@ This repository is designed to help individuals of all skill levels master the c
 |---- |-----------------------------------------|
 | 1.  | [Introduction](#introduction)           |
 | 2.  | [Getting Started](#getting-started)     |
-| 3.  | [Repository Structure](#repository-structure) |
+| 3.  | [Resources](#resources) |
 | 4.  | [Contributing](#contributing)           |
 | 5.  | [License](#license)                     |
 
