@@ -41,7 +41,7 @@ Explore practical code examples in the `CodeExamples` directory to reinforce you
 
 - [Cheat Sheets](Resources/CheatSheets.md) - Quick reference guides for common Git and GitHub operations.
 - [Useful Links](Resources/Links.md) - External resources for further learning.
-- [Video Tutorials](Resources/Videos.md) - Video tutorials to supplement your knowledge.
+- [Tools & Extensions](Tools_and_Extensions.md) - Video tutorials to supplement your knowledge.
 
 ## Contributing
 
