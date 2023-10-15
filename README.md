@@ -1,4 +1,5 @@
 # GitHub-Mastery
+![GitHub Desktop Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 This repository is designed to help individuals of all skill levels master the concepts of version control with Git and collaboration using GitHub. Whether you're a beginner, intermediate, or advanced user, you'll find resources and examples here to enhance your understanding.
 
