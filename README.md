@@ -39,9 +39,9 @@ To get the most out of this repository, you should have the following tools inst
   
 ## Resources
 
-- [Cheat Sheets](Resources/CheatSheets.md) - Quick reference guides for common Git and GitHub operations.
-- [Useful Links](Resources/Links.md) - External resources for further learning.
-- [Tools & Extensions](Tools_and_Extensions.md) - Video tutorials to supplement your knowledge.
+- [Cheat Sheets](./Resources/CheatSheets.md) - Quick reference guides for common Git and GitHub operations.
+- [Useful Links](./Resources/Links.md) - External resources for further learning.
+- [Tools & Extensions](./Resources/Tools_and_Extensions.md) - Video tutorials to supplement your knowledge.
 
 ## Contributing
 
@@ -49,6 +49,6 @@ We encourage contributions to make this repository even more valuable. If you'd 
 
 ## License
 
-This repository is open-source and available under the [LICENSE](License.md). By contributing to this repository, you agree that your contributions will be licensed under the same open-source license.
+This repository is open-source and available under the [LICENSE](./LICENSE.md). By contributing to this repository, you agree that your contributions will be licensed under the same open-source license.
 
 Thank you for being a part of our learning community! We hope this repository helps you master Git and GitHub and empowers you to collaborate effectively with others.
