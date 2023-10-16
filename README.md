@@ -39,13 +39,13 @@ To get the most out of this repository, you should have the following tools inst
   
 ## Resources
 
-- [Cheat Sheets](./Resources/CheatSheets.md) - Quick reference guides for common Git and GitHub operations.
-- [Useful Links](./Resources/Links.md) - External resources for further learning.
-- [Tools & Extensions](./Resources/Tools_and_Extensions.md) - Video tutorials to supplement your knowledge.
+- [Cheat Sheets](https://github.com/AnthonyByansi/GitHub-Mastery/blob/main/Reasources/CheatSheets.md) - Quick reference guides for common Git and GitHub operations.
+- [Useful Links](https://github.com/AnthonyByansi/GitHub-Mastery/blob/main/Reasources/Links.md) - External resources for further learning.
+- [Tools & Extensions](https://github.com/AnthonyByansi/GitHub-Mastery/blob/main/Reasources/Tools_and_Extensions.md) - Video tutorials to supplement your knowledge.
 
 ## Contributing
 
-We encourage contributions to make this repository even more valuable. If you'd like to contribute, please check our [Contribution Guidelines](CONTRIBUTING.md).
+We encourage contributions to make this repository even more valuable. If you'd like to contribute, please check our [Contribution Guidelines](https://github.com/AnthonyByansi/GitHub-Mastery/blob/main/CONTRIBUTING.md).
 
 ## License
 
