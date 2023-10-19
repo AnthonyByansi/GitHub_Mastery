@@ -49,6 +49,11 @@ To create your first GitHub repository:
    
 ![+](images/+.png)
 
+![Panda][Panda]
+...
+[Panda]: https://www.example.com/panda.jpg "Cute Panda"
+
+
 
 4. **Fill out the repository details**, including the repository name, description, visibility (public or private), and initialization options (initialize with a README, .gitignore, or license).
    
