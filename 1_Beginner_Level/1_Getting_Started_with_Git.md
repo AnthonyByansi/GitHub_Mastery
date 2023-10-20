@@ -69,6 +69,18 @@ Now that your repository is set up, here are some fundamental Git commands you'l
 - `git log`: View a history of commits.
 
 - `git branch`: List existing branches in your repository.
+  ```mermaid
+  gitGraph
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       commit
+       checkout main
+       commit
+       commit
+   ```
 
 - `git checkout <branch-name>`: Switch to a different branch.
 
