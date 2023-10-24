@@ -61,13 +61,11 @@ To create your first GitHub repository:
 1. **Log in to GitHub** if you're not already logged in.
 
 2. **Click the "+" icon** in the upper right corner and select "New repository."
-   
-      ![+](images/+.png)
+   ![+](images/+.png)
 
 
 4. **Fill out the repository details**, including the repository name, description, visibility (public or private), and initialization options (initialize with a README, .gitignore, or license).
-   
-      ![repo](images/repo.png)
+   ![repo](images/repo.png)
 
 
 6. **Click "Create repository"** to create your repository.
