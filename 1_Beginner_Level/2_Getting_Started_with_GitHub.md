@@ -27,6 +27,21 @@ To get started with GitHub, you'll need to create an account:
 
 3. **Verify your email address** by clicking the link in the verification email sent to you.
 
+   ```mermaid
+   sequenceDiagram
+    participant User
+    participant GitHub
+    User->>GitHub: Open a web browser
+    User->>GitHub: Navigate to github.com
+    GitHub-->>User: Render GitHub homepage
+    User->>GitHub: Click on "Sign up"
+    User->>GitHub: Fill in username, email, password
+    User->>GitHub: Click "Sign up for GitHub"
+    GitHub-->>User: Verify email address
+    User->>GitHub: Complete the account setup
+    GitHub-->>User: Welcome to GitHub!
+    ```
+
 ## Setting Up Your GitHub Profile
 
 Once you have your GitHub account, it's essential to set up your profile:
