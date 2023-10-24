@@ -88,4 +88,36 @@ Now that your repository is set up, here are some fundamental Git commands you'l
 
 - `git push`: Push your local changes to a remote repository.
 
+### Git Operations
+```mermaid
+graph TD
+    A[Local Repository] --> B[Working Directory]
+    A --> C[Staging Area]
+    A --> D[Local Repository]
+    B --> E[Checkout]
+    C --> F[Commit]
+    D --> G[Branches]
+    G --> H[Checkout]
+    H --> I[Local Repository]
+
+    subgraph Git Actions
+        B -->|1. git checkout| E
+        C -->|2. git add| F
+        F -->|3. git commit| I
+        G -->|4. git branch| H
+    end
+
+    subgraph File Operations
+        E -->|5. Copy files| B
+        E -->|6. Update files| C
+        H -->|7. Switch branch| D
+    end
+
+    subgraph Repositories
+        A[Local Repository]
+        D[Local Repository]
+        I[Local Repository]
+    end
+```
+
 Continue your Git journey by exploring [2_Getting_Started_with_GitHub.md](2_Getting_Started_with_GitHub.md) to understand how Git integrates with GitHub for efficient collaboration and version control.
