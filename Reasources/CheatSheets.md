@@ -68,16 +68,17 @@ This collection of cheat sheets provides quick references for common Git and Git
 - Use Git hooks for custom actions.
 
 - Create tables:
+  ```markdown
   | Header 1 | Header 2 |
   |----------|----------|
   | Content 1| Content 2|
-
+  ```
 ## Additional Resources
 
 In addition to the cheat sheets, explore these resources for further learning:
 
 - [Pro Git Book](https://git-scm.com/book/en/v2) - A comprehensive guide to Git.
-- [GitHub Learning Lab](https://lab.github.com/) - Interactive courses on Git and GitHub.
+- [GitHub Learning Lab](https://learn.microsoft.com/training/github/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) - Interactive courses on Git and GitHub.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git) - In-depth tutorials on Git concepts.
 
 ### Acknowledgment
